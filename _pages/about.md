@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Computer Science PhD student at the University of Salerno (Italy). I am a member of the Computer Languages and User-Experience Lab, where I conduct research on Machine Learning approaches applied to compilers, Multidimensional Languages, and Human-Computer Interaction.
 
-Additionally, I work for the Italian Ministry of Education as a computer science teacher for high school students. In addition, my background includes Full-Stack Development experience spanning from 2013 to 2022.
+Additionally, I work for the Italian Ministry of Education as a computer science teacher for high school students. Moreover, my background includes Full-Stack Development experience spanning from 2013 to 2022.
 \
 
 Recent Publications
