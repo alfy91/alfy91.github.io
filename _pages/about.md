@@ -15,7 +15,9 @@ Additionally, I work for the Italian Ministry of Education as a computer science
 Recent Publications
 ======
 
-
+- **Assessing Carbon Footprint: Understanding the Environmental Costs of Training Devices**  
+  _under review_\
+  Gennaro Costagliola, Mattia De Rosa, **Alfonso Piscitelli** (2024)
 - **Exploring Neural Machine Translation Techniques for Code Translation: A Literature Review**  
   _under review_\
   Gennaro Costagliola, Mattia De Rosa, **Alfonso Piscitelli** (2024)
