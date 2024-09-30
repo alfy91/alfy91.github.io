@@ -15,7 +15,7 @@ Additionally, I work for the Italian Ministry of Education as a computer science
 Recent Publications
 ======
 
-- **Influence of Large Language Models on Programming Assignments – An user study**  
+- **Influence of Large Language Models on Programming Assignments – A user study**  
   _Accepted to ICETC 2024 - Invited Session: Intelligent Systems in the Sustainable Development context_\
   **Alfonso Piscitelli** Gennaro Costagliola, Mattia De Rosa, Vittorio Fuccella (2024)
 - **Assessing Carbon Footprint: Understanding the Environmental Costs of Training Devices**  
