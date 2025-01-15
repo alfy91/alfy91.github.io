@@ -9,8 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Publications
-======
+### List of Publications
 
 - **Large Language Models for Student Code Evaluation: Insights and Accuracy**  
   _Accepted to CSEDU2025_\
