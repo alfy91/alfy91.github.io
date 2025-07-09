@@ -7,14 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science PhD student at the University of Salerno (Italy). I am a member of the Computer Languages and User-Experience Lab, where I conduct research on Machine Learning approaches applied to compilers, Multidimensional Languages, and Human-Computer Interaction.
+## About Me
+
+I'm a final-year PhD student in Computer Science at the **University of Salerno** (Italy), supervised by [Gennaro Costagliola](https://docenti.unisa.it/004178/en/home) and [Mattia De Rosa](https://docenti.unisa.it/051676/en/home). I’m a member of the Computer Languages and User-Experience (CLUE) Lab, where my research focuses on:
+
+- The application of **Machine Learning techniques to compilers**
+- The use of **Large Language Models (LLMs)** for **program translation**
+- **Computer Science Education**, with a particular interest in how intelligent systems can support learning and teaching programming
 
 Additionally, I work for the Italian Ministry of Education as a computer science teacher for high school students. Moreover, my background includes Full-Stack Development experience spanning from 2013 to 2022.
 
 
 News
 ======
-- **[Jan2025]** Our paper entitled **Large Language Models for Student Code Evaluation: Insights and Accuracy** has been accepted as a Full Paper to CSEDU2025
+- **[Jun2025]** Our paper entitled **Evaluating Touch and Crown Interactions on a Linear QWERTY Soft Keyboard on Smartwatches** has been accepted as a Full Paper to SMC2025. 
+- **[Apr2025]** Our paper entitled **Large Language Models for Student Code Evaluation: Insights and Accuracy** received the Best Student Paper Award in CSEDU2025. 
 - **[Dec2024]** Our paper entitled **Assessing the Potential of an LLM-Powered System for Enhancing FHIR Resource Validation** has been accepted as a Full Paper to MIE2025
 
 Recent Publications
