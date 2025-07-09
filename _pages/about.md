@@ -27,8 +27,14 @@ News
 Recent Publications
 ======
 
+- **Evaluating Touch and Crown Interactions on a Linear QWERTY Soft Keyboard on Smartwatches**  
+  _Accepted to SMC2025_\
+  Gennaro Costagliola, Mattia De Rosa, Camilla Fiumarella, Vittorio Fuccella, **Alfonso Piscitelli** (2025)
+- **Descriptive Assessment of Student Code by LLMs: An Empirical Study**  
+  _Presented to HCII2025_\
+  **Alfonso Piscitelli**, Mattia De Rosa, Vittorio Fuccella, Gennaro Costagliola (2025)
 - **Large Language Models for Student Code Evaluation: Insights and Accuracy**  
-  _Accepted to CSEDU2025_\
+  _Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025) - Volume 2, pages 534-544_ **[Best Student Paper Award]** \
   **Alfonso Piscitelli**, Mattia De Rosa, Vittorio Fuccella, Gennaro Costagliola (2025)
 - **Assessing the Potential of an LLM-Powered System for Enhancing FHIR Resource Validation**  
   _Accepted to MIE2025_\
@@ -36,7 +42,4 @@ Recent Publications
 - **Influence of Large Language Models on Programming Assignments – A user study**  
   _Accepted to ICETC 2024 - Invited Session: Intelligent Systems in the Sustainable Development context_\
   **Alfonso Piscitelli** Gennaro Costagliola, Mattia De Rosa, Vittorio Fuccella (2024)
-- **Assessing Carbon Footprint: Understanding the Environmental Costs of Training Devices**  
-  _KES 2024 - Invited Session: Intelligent Systems in the Sustainable Development context_\
-  Gennaro Costagliola, Mattia De Rosa, **Alfonso Piscitelli** (2024)
 
