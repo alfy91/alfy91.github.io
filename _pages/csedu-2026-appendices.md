@@ -1,3 +1,10 @@
+---
+permalink: /csedu-2026-appendices/
+title: "CSEDU2026 - LLM-Based Rubric Grading for Programming Assignments: An Empirical Study [Appendix 1]"
+author_profile: false
+---
+
+
 # APPENDICES
 ## A.1 Evaluation Grid
 
