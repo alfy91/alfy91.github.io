@@ -9,24 +9,24 @@ redirect_from:
 
 ## About Me
 
-I'm a final-year PhD student in Computer Science at the **University of Salerno** (Italy), supervised by [Gennaro Costagliola](https://docenti.unisa.it/004178/en/home) and [Mattia De Rosa](https://docenti.unisa.it/051676/en/home). I’m a member of the Computer Languages and User-Experience (CLUE) Lab, where my research focuses on:
+I am a Computer Science teacher at the ISIS Ferraris-Buccini (Caserta, Italy) high school.
 
-- The application of **Machine Learning techniques to compilers**
-- The use of **Large Language Models (LLMs)** for **program translation**
-- **Computer Science Education**, with a particular interest in how intelligent systems can support learning and teaching programming
+In February 2026, I obtained my PhD in Computer Science from the University of Salerno, defending the thesis “Validation-Driven LLM Architectures for Code Generation, Translation, and Automated Grading” under the supervision of Gennaro Costagliola and Mattia De Rosa.
 
-Additionally, I work for the Italian Ministry of Education as a computer science teacher for high school students. Moreover, my background includes Full-Stack Development experience spanning from 2013 to 2022.
-
+My research interests focus on the intersection of Machine Learning and Software Engineering, including the application of Machine Learning techniques to compilers, the use of Large Language Models (LLMs) for program translation, and Computer Science Education.
 
 News
 ======
+- **[Apr2026]** Our paper entitled **LLM-Based Rubric Grading for Programming Assignments: An Empirical Study** has been accepted as a Full Paper to CSEDU2026. 
 - **[Jun2025]** Our paper entitled **Evaluating Touch and Crown Interactions on a Linear QWERTY Soft Keyboard on Smartwatches** has been accepted as a Full Paper to SMC2025. 
 - **[Apr2025]** Our paper entitled **Large Language Models for Student Code Evaluation: Insights and Accuracy** received the Best Student Paper Award in CSEDU2025. 
-- **[Dec2024]** Our paper entitled **Assessing the Potential of an LLM-Powered System for Enhancing FHIR Resource Validation** has been accepted as a Full Paper to MIE2025
 
 Recent Publications
 ======
 
+- **LLM-Based Rubric Grading for Programming Assignments: An Empirical Study**  
+  _Accepted to CSEDU2026_\
+  **Alfonso Piscitelli**, Mattia De Rosa, Vittorio Fuccella, Gennaro Costagliola (2026)
 - **Evaluating Touch and Crown Interactions on a Linear QWERTY Soft Keyboard on Smartwatches**  
   _Accepted to SMC2025_\
   Gennaro Costagliola, Mattia De Rosa, Camilla Fiumarella, Vittorio Fuccella, **Alfonso Piscitelli** (2025)
@@ -39,7 +39,4 @@ Recent Publications
 - **Assessing the Potential of an LLM-Powered System for Enhancing FHIR Resource Validation**  
   _Accepted to MIE2025_\
   Parinaz Tabari, **Alfonso Piscitelli**, Mattia De Rosa, Gennaro Costagliola (2024)
-- **Influence of Large Language Models on Programming Assignments – A user study**  
-  _Accepted to ICETC 2024 - Invited Session: Intelligent Systems in the Sustainable Development context_\
-  **Alfonso Piscitelli** Gennaro Costagliola, Mattia De Rosa, Vittorio Fuccella (2024)
 
